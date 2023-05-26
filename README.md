@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-
+<img src="{[BadgeURLHere](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)}" />
 
 <div align="center">
 <h1> 📊 GitHub Stats:
