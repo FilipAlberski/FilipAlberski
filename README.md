@@ -42,6 +42,7 @@ That's just a brief introduction about me. If you have any questions or would li
 <br/>
 
 <div align="center">
+
 # 📊 GitHub Stats:
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=FilipAlberski&theme=tokyonight&hide_border=false)<br/>
